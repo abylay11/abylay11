@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abylay11
-- 👀 I’m interested in Backend development
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Frontend development
+- 🌱 I’m currently learning Frontend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
